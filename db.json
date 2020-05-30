@@ -6,7 +6,9 @@
             "caracteristica": "Es uno de los platos representativos de arequipa. ",
             "descripcion": "El adobo de cerdo arequipeño es uno de los platos más exquisitos de la gastronomía peruana. ",
             "precio":  18.50,
-            "foto": "https://i.ytimg.com/vi/gDn4_8A92z4/maxresdefault.jpg"
+            "ph-one":   "https://i.ytimg.com/vi/gDn4_8A92z4/maxresdefault.jpg"  ,    
+            "ph-two":  "https://craftlog.com/m/i/3228529=s1280=h960"  
+            
         },
         {
             "id": 2,
@@ -14,7 +16,9 @@
             "caracteristica": "Es un plato emblemático que proviene del vocablo chaufan.",
             "descripcion": "El Arroz Chaufa es considerado el potaje más emblemático de la fusión gastronómica peruano-chino, conocida como Chifa. ",
             "precio":  15.50,
-            "foto": "https://micomidaperuana.com/wp-content/uploads/2019/05/Arroz-chaufa.jpg"
+            "ph-one":   "https://micomidaperuana.com/wp-content/uploads/2019/05/Arroz-chaufa.jpg"  ,    
+            "ph-two":  "https://www.recetips.com/uploads/recetas_4646c629af8d5db54fbe709f06a86fa8.jpg"  
+            
         },
         {
             "id": 3,
@@ -22,7 +26,9 @@
             "caracteristica": "El bistec a lo pobre, a pesar de su nombre, es uno de los platillos más deliciosos y contundentes ",
             "descripcion": "El bistec a lo pobre es un plato muy popular de la gastronomía peruana. Está compuesto de carne, cebollas, papas fritas y huevos.  ",
             "precio": 22.50,
-            "foto": "https://www.limacriolla.com/wp-content/uploads/2015/10/00-Menu-Photos10.jpg"
+            "ph-one":   "https://www.limacriolla.com/wp-content/uploads/2015/10/00-Menu-Photos10.jpg"  ,    
+            "ph-two":  "https://www.iperu.org/wp-content/uploads/2018/02/bistec-a-lo-pobre-1280x720.jpg"  
+            
         },
         {
             "id": 4,
@@ -30,7 +36,45 @@
             "caracteristica": "El Estofado es una versión criolla del Boeuf Bourguigno",
             "descripcion": "El estofado de Carne es un plato nutritivo y delicioso al mismo tiempo,delicia que a la mayoría de personas les encanta.",
             "precio":  16.50,
-            "foto": "https://www.iperu.org/wp-content/uploads/2018/06/estofado-de-res-1280x720.jpg"      
+            "ph-one":  "https://www.iperu.org/wp-content/uploads/2018/06/estofado-de-res-1280x720.jpg"   ,    
+            "ph-two":  "https://i.ytimg.com/vi/VJnTAhX6bCk/maxresdefault.jpg"  
+               
+        },
+        {
+            "id": 5,
+            "nombre": "Arroz Tapado",
+            "caracteristica": "Es uno de los platos más típicos de la gastronomía peruana. ",
+            "descripcion": "El Arroz Tapado este tipo de comidas con carne molida son muy nutritivas ya que lleva carne molida de res que aporta un importante valor proteico",
+            "precio":  14.50,
+            "ph-one":  "https://i.ytimg.com/vi/6MY8ApwXi6o/maxresdefault.jpg"  , 
+            "ph-two":  "https://i.ytimg.com/vi/olVWN5lJKBU/maxresdefault.jpg"  
+        },
+        {
+            "id": 6,
+            "nombre": "Lomo Saltado",
+            "caracteristica": "El Lomo Saltado es un plato típico de la gastronomía del Perú",
+            "descripcion": "El encuentro de la influencia china con la peruana generó una variedad de sabores como el delicioso arroz chaufa. ",
+            "precio":  19.50,
+            "ph-one": "https://www.culturalatina.at/media/k2/items/cache/36fdb1a35cd2f54f95cf2119fb5bc7ed_M.jpg"  ,    
+            "ph-two":  "https://i.ytimg.com/vi/E5AZHQHsskQ/maxresdefault.jpg"     
+        },
+        {
+            "id": 7,
+            "nombre": "Seco de Carne",
+            "caracteristica": "orma parte de la comida criolla y uno de los platos más populares en el Peru ",
+            "descripcion": "El Seco de Carne podemos disfrutarlo tanto en el menú diario como en un día de fiesta y celebración.  ",
+            "precio": 20.50,
+            "ph-one": "https://i.ytimg.com/vi/TkeyREV13xU/maxresdefault.jpg"  ,    
+            "ph-two":  "https://i.ytimg.com/vi/rMsbGQ2xw-M/maxresdefault.jpg"           
+        },
+        {
+            "id": 8,
+            "nombre": "Tallarín saltado criollo",
+            "caracteristica": "El tallarín saltado es un plato fusión con la gastronomía china. ",
+            "descripcion": "El nombre tallarín saltado proviene de la técnica de saltear los  insumos en una sartén o wok.",
+            "precio":  16.50,
+            "ph-one": "https://i.pinimg.com/originals/f7/92/99/f79299bd8eb22cd9ec4d5f69e100a4dd.jpg"  ,    
+            "ph-two": "https://arc-anglerfish-arc2-prod-gruporepublica.s3.amazonaws.com/public/RGCTJNWBYFE3BKCXRQWDUQSA34.png"  
         }
     ]
 }
